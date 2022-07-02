@@ -50,15 +50,15 @@ p {
             }
 
             #accept-button {
-                background-color: rgb(132, 94, 194);
+                background-color: #BB0000;
 
                 color: white;
             }
 
             #decline-button {
-                color: rgb(132, 94, 194);
+                color: white;
 
-                border: 2px solid rgb(132, 94, 194);
+                border: 2px solid #BB0000;
             }
 
             p.overlay-description {
@@ -118,7 +118,7 @@ p {
                 align-items: center;
                 justify-content: center;
 
-                background-color: #f5f6fa;
+                background-color: #111222;
 
                 padding-right: 24px;
                 padding-left: 24px;
